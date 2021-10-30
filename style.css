@@ -25,10 +25,17 @@ a{
 h1{
     text-align: center;
     color: #696057;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 h2{
     align-items: center;
     justify-content: center;
+}
+
+h3{
+    padding-right: 30px;
+    padding-left: 30px;
 }
 p{
     font-size: 20px;
@@ -37,7 +44,10 @@ p{
     padding-right: 30px;
     padding-top: 10px;
     padding-bottom: 20px;
+}
 
+small{
+    font-size: 20px;
 }
 
 .caseStudy {
@@ -72,3 +82,18 @@ p{
     font-size: 16px;
 }
 
+.dhsHeroImage{
+    width: 100vw;
+}
+
+.jumbotron{
+  padding: 0px;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+.behavioralImage{
+    width: 100vh;
+}
